@@ -1,5 +1,5 @@
 '''
-(*) minisom based on https://github.com/JustGlowing/minisom.py  --> pip install minisom
+(*) SOM based on minison --> pip install minisom
 
 The most important steps in the self-organizing map(SOM) learning process:
 1.Weight initialization
