@@ -25,7 +25,7 @@ Execution time: 0.039999961853027344 s
 Quantization error: 0.40794503784810554
 Model Accuracy Score:  0.795
 
-# figure
+# result graph
 ![distance matrix](https://user-images.githubusercontent.com/65076718/172353657-42840d72-874e-46ef-8a52-974e401f4643.png)
 
-in the picture:  class 1 - Red circle, class 2 - yellow square, class 3 - blue diamond
+in this picture:  experiment|label|class 1 - Red circle, class 2 - yellow square, class 3 - blue diamond
