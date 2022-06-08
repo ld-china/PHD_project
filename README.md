@@ -1,6 +1,6 @@
 
 # parameters:
-
+##### Setting of hyperparameters inside minison
 MiniSom(x=6, y=6, input_len=27, sigma=1, learning_rate=0.5, neighborhood_function='gaussian', activation_distance=activation_distance[i], random_seed=0)
 ##### ps: activation_distance = ['euclidean', 'cosine', 'manhattan', 'chebyshev']
 
